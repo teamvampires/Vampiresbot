@@ -45,6 +45,7 @@ _set_bot () {
     ┃┗━┛┃┃┃┃┏┫┏┓┣╋╋┫┏┓┃┏┓┃┃
     ┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
     ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
+
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
